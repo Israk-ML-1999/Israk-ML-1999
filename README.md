@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israk-ml-1999&label=Profile%20views&color=0e75b6&style=flat" alt="israk-ml-1999" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning , NLP,CV**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning , NLP, CV**
 
 - 📫 How to reach me **israkhassan49@gmail.com**
 
