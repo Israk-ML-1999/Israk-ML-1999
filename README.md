@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Israk Hasan Jone</h1>
-<h3 align="center">I'm fresher in Machine Learning & I'm from Bangladesh.</h3>
+<h3 align="center">I'm Junior AI Engineer & I'm from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israk-ml-1999&label=Profile%20views&color=0e75b6&style=flat" alt="israk-ml-1999" /> </p>
 
-- 🌱 I’m Currently working at BdCalling IT, as a Junior AI Engineerr with a focus on **AI, Machine Learning, Deep Learning , NLP, LLMs , GenAI CV**
+- 🌱 I’m Currently working at BdCalling IT, with a focus on **AI, Machine Learning, Deep Learning, NLP, LLMs, GenAI, CV**
 
 - 📫 How to reach me **israkhassan49@gmail.com**
 
