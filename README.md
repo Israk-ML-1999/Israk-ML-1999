@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israk-ml-1999&label=Profile%20views&color=0e75b6&style=flat" alt="israk-ml-1999" /> </p>
 
-- 🌱 I’m Currently working at BdCalling IT, with a focus on **AI, Machine Learning, Deep Learning, NLP, LLMs, GenAI, CV**
+- 🌱 I’m Currently working at SM Technology, with a focus on **AI, Machine Learning, Deep Learning, NLP, LLMs, GenAI, CV**
 
 - 📫 How to reach me **israkhassan49@gmail.com**
 
