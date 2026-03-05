@@ -63,17 +63,22 @@
 </a>
 </p>
 
-
+<!--
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,c,html,django,flask,fastapi,mongodb,postgres,mysql,docker,linux,git,aws,azure,tensorflow,pytorch" />
 </p>
+-->
 
 
 ### 📊 GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=israk-ml-1999&layout=compact&theme=default&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israk-ml-1999&show_icons=true&theme=default&cache_seconds=1800)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=israk-ml-1999&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=israk-ml-1999&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israk-ml-1999&layout=compact&theme=tokyonight"/>
+
+</p>
 
