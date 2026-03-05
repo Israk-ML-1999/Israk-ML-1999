@@ -63,6 +63,12 @@
 </a>
 </p>
 
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,django,flask,fastapi,mongodb,postgres,mysql,docker,linux,git,aws,azure,tensorflow,pytorch" />
+</p>
+
+
 ### 📊 GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=israk-ml-1999&layout=compact&theme=default&cache_seconds=1800)
