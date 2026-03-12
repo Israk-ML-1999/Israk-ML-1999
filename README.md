@@ -74,7 +74,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=israk-ml-1999&layout=compact&theme=default&cache_seconds=1800)
 
-<p align="center">
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=israk-ml-1999&show_icons=true&theme=tokyonight"/>
 
